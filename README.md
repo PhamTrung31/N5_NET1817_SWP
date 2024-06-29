@@ -1,7 +1,7 @@
 # SWT301
 
 ## Overview
-
+This is the place to store the necessary documents for grading the SWT301 course.
 
 ## Role
 - Phạm Quốc Trung - Leader
