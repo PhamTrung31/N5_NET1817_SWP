@@ -1,9 +1,9 @@
 # SWT301
 
-## Overview
+### Overview
 This is the place to store the necessary documents for grading the SWT301 course.
 
-## Role
+### Role
 - Phạm Quốc Trung - Leader
 - Lại Vũ Hải Đăng
 - Nguyễn Nhật Nam
@@ -11,7 +11,7 @@ This is the place to store the necessary documents for grading the SWT301 course
 - Nguyễn Đình Nhân
 - Trần Lâm Khánh
 
-## Use case
+### Use case
 
    Sprint       | Use case                                         |
 |:-------------:|:------------------------------------------------:|
@@ -19,7 +19,7 @@ This is the place to store the necessary documents for grading the SWT301 course
 | Sprint 2      | UC16, UC1, UC2, UC3, UC4, UC8, UC10, UC11        |
 | Sprint 3      | UC14, UC15, UC16, UC18, UC19, UC22               |
 
-## TEST WORK FLOW
+### TEST WORK FLOW
 
 **Sprint 1**
 - Quốc Trung: UC13
