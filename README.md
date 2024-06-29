@@ -32,4 +32,4 @@ This is the place to store the necessary documents for grading the SWT301 course
 
 - Nhân: UC7, UC9
 
-- Đăng: 
+- Đăng: UC17
