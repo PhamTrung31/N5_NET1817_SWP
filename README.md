@@ -33,3 +33,17 @@ This is the place to store the necessary documents for grading the SWT301 course
 - Nhân: UC7, UC9
 
 - Đăng: UC17
+
+
+**Sprint 2**
+- Quốc Trung: UC1
+
+- Nhớ: UC2
+
+- Nam: UC3
+
+- Khánh: UC4, UC11
+
+- Nhân: UC8
+
+- Đăng: UC10, UC16
