@@ -17,7 +17,7 @@ This is the place to store the necessary documents for grading the SWT301 course
 |:-------------:|:------------------------------------------------:|
 | Sprint 1      | UC13, UC12, UC5, UC6, UC20, UC21, UC7, UC9, UC17 |
 | Sprint 2      | UC16, UC1, UC2, UC3, UC4, UC8, UC10, UC11        |
-| Sprint 3      | UC14, UC15, UC16, UC18, UC19, UC22               |
+| Sprint 3      | UC14, UC15, UC18, UC19, UC22               |
 
 ### TEST WORK FLOW
 
